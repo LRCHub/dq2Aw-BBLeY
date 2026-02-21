@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Specter",
+  "base_artist": "Bad Omens",
+  "createdAt": "2026-02-21T21:17:16.114455Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Crystal Specter",
+      "artist": "Dødheimsgard",
+      "has_synced": true,
+      "path": "select/01_The_Crystal_Specter_Dødheimsgard.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Important Things (Specter Magic)",
+      "artist": "Snowing",
+      "has_synced": false,
+      "path": "select/02_Important_Things_(Specter_Magic)_Snowing.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Desolate Specter",
+      "artist": "Termina",
+      "has_synced": true,
+      "path": "select/03_Desolate_Specter_Termina.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Specter",
+      "artist": "Tech N9ne feat. Crystal Watson",
+      "has_synced": true,
+      "path": "select/04_Specter_Tech_N9ne_feat._Crystal_Watson.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Specter",
+      "artist": "The Blow",
+      "has_synced": false,
+      "path": "select/05_The_Specter_The_Blow.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Cynical (Directed by Specter Berlin)",
+      "artist": "twocolors",
+      "has_synced": true,
+      "path": "select/06_Cynical_(Directed_by_Specter_Berlin)_twocolors.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Specter (feat. Crystal Watson)",
+      "artist": "Tech N9ne",
+      "has_synced": true,
+      "path": "select/07_Specter_(feat._Crystal_Watson)_Tech_N9ne.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Specter of War",
+      "artist": "Creeping Death",
+      "has_synced": false,
+      "path": "select/08_Specter_of_War_Creeping_Death.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Specter",
+      "artist": "Gloson",
+      "has_synced": false,
+      "path": "select/09_Specter_Gloson.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Cynical (Directed by Specter Berlin)",
+      "artist": "Safri Duo, twocolors, Chris de Sarandy",
+      "has_synced": true,
+      "path": "select/10_Cynical_(Directed_by_Specter_Berlin)_Safri_Duo,_twocolors,_Chris_de_Sarandy.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Regina's Specter",
+      "artist": "Two Knights",
+      "has_synced": true,
+      "path": "select/11_Regina's_Specter_Two_Knights.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Letter to a Neon Specter",
+      "artist": "Sadistik & Maulskull",
+      "has_synced": true,
+      "path": "select/12_Letter_to_a_Neon_Specter_Sadistik_&_Maulskull.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Letter to a Neon Specter",
+      "artist": "Sadistik",
+      "has_synced": true,
+      "path": "select/13_Letter_to_a_Neon_Specter_Sadistik.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Specter",
+      "artist": "Subterranean Masquerade",
+      "has_synced": true,
+      "path": "select/14_Specter_Subterranean_Masquerade.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Specter",
+      "artist": "Bad Omens",
+      "has_synced": false,
+      "path": "select/pl_01_Specter_Bad_Omens.txt"
+    }
+  ]
+}
